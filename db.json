@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Guddu Tiwari",
+      "score":15,
+      "totalscore":20
+    },
+    {
+      "id": 2,
+      "username": "Admin",
+      "score":14,
+      "totalscore":20
+    }
+  ]
+}

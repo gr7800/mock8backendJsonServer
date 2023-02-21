@@ -1,0 +1,24 @@
+{
+  "name": "mock3_json_server",
+  "version": "1.0.0",
+  "description": "mock3 backend json server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gr7800/mock3_json_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gr7800/mock3_json_server/issues"
+  },
+  "homepage": "https://github.com/gr7800/mock3_json_server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

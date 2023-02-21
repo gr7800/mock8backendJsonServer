@@ -1,2 +1,2 @@
-# mock8backendJsonServer
-mock8 backend  for users scores
+# mock8_json_server
+mock3 backend json server 
